@@ -1,0 +1,18 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Book",
+        "price": 10
+      }
+    ],
+    "bills": [
+      {
+          "id":1,
+          "item":"Book",
+          "sold":20,
+          "date":"Wed Sep 27 2023",
+          "total":200
+      }
+    ]
+  }
